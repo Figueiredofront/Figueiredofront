@@ -8,16 +8,23 @@
   <li>🤝 <strong>Aberto a oportunidades:</strong> Estou em busca de experiências profissionais na área de tecnologia, com interesse especial em <strong>desenvolvimento front-end</strong> e <strong>gestão de TI</strong>.</li>
 </ul>
 
-<ul>
-  <li><h4><strong>Desenvolvendo novas habilidades em linguagens de programação</strong></h4></ul>
-        <li>  <img aling="left"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></li>
-        <li><img aling="left"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></li>
-        <li><img aling="left"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></li>
-        <li><img aling="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></li>
-</ul>
+  <h2 align="center">Habilidades</h2>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo" />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredofront)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+
+
 
 
     
