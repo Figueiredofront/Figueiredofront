@@ -21,6 +21,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Figueiredofront&show_icons=false&theme=aura&_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figueiredofront&layout=compact&langs_count=16&theme=aura"/>
+</div>
+
 
 
 
