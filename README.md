@@ -25,6 +25,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Figueiredofront&show_icons=false&theme=aura&_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Figueiredofront&layout=compact&langs_count=16&theme=aura"/>
 </div>
+<br>
+<!--- snake --->  
+  <div align="center">
+      <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake" /></a>
+      <img src="https://resources/img/waving.gif">
+  </div>
 
 
 
