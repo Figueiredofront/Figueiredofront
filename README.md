@@ -21,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredofront)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
